@@ -1,6 +1,6 @@
 ## Hi there, I'm Liz
-
-- 🔭 Working on Agritechnology
+- 👷🏽‍♀️Building Jarida
+- 🔭 Working in Agritechnology
 - 🌱 Currently learning data analysis
 - 👀 Check out my [professional work](https://www.linkedin.com/in/liz-wangui-7a57881b3/)
 - 💬 Ask me anything smart farming
